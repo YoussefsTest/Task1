@@ -1,2 +1,3 @@
 print("HELLO")
-print(20)
+print(22)
+
